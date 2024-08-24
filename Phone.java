@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class Phone extends Frame {
-	int number = 0;
+	int number = 5;
     private TextField timeTextField;
     private TextField passwordTextField;
     private TextField newTimeTextField;
